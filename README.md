@@ -7,6 +7,6 @@
 - Task: classification
 - Objectice: predict whether a person makes over 50K a year
 
-## Aknowledgements
+## Acknowledgements
 
 Thanks to [UCI](https://archive.ics.uci.edu/ml/index.php).
