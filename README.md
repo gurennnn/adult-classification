@@ -1,22 +1,22 @@
 # Adult Classification
 
-- Machine Learning challenge: #2
-- Dataset: [adult](https://archive.ics.uci.edu/ml/datasets/Adult)
-- Task: classification
+Machine Learning challenge: #2
 
 ## Description
 
-In this project, we have data that represents a population with different demographic characteristics, following by their economic and social status.  
-We are going to investigate the data and try to use supervised machine learning algorithms to find a relationship between the different features and the income of the person.
+Solving population's income classification problem using Machine Learning Algorithms.
 
 ## Install
 
-run `pip install requirements.txt`
+Run the command:
+
+`pip install requirements.txt`
 
 ## Requirements
 
-- Pandas
+- Jupyter Notebooks
 - Numpy
+- Pandas
 - Matplotlib
 - Seaborn
 - Scikit-learn
