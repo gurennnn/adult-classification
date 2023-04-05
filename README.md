@@ -23,4 +23,4 @@ Run the command:
 
 ## Acknowledgements
 
-Thanks to [UCI](https://archive.ics.uci.edu/ml/index.php).
+Thanks to the [UCI](https://archive.ics.uci.edu/ml/index.php) org.
