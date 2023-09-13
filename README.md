@@ -1,7 +1,5 @@
 # Adult Classification
 
-Machine Learning challenge: #2
-
 ## Description
 
 Solving population's income classification problem using Machine Learning Algorithms.
